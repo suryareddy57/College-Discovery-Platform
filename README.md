@@ -2,6 +2,8 @@
 
 A modern, interactive web application for discovering and comparing colleges. Built with Next.js 16, React 19, and TypeScript, featuring a clean UI powered by Tailwind CSS.
 
+🌐 **Live Demo**: [https://college-discovery-platform-two-drab.vercel.app/](https://college-discovery-platform-two-drab.vercel.app/)
+
 ## ✨ Features
 
 - **College Discovery**: Browse through a curated list of colleges with detailed information
